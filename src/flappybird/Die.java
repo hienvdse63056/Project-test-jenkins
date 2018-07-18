@@ -10,7 +10,7 @@ package flappybird;
  * @author ADMIN
  */
 public class Die {
-
+    int aa = 0;
     public Bird conchimK = new Bird();
     Throne ongnuocK = new Throne();
 
