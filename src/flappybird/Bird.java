@@ -15,7 +15,7 @@ import javax.swing.JPanel;
  */
 public class Bird extends JPanel {
 
-    public static int x = 100
+    public static int x = 100;
     public static int y = 200;
     // private Throne th = new Throne();
 
