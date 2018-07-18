@@ -65,7 +65,10 @@ public class Main extends JFrame implements KeyListener, MouseListener {
 //
     }
 
-   
+    public static void main(String[] args) {
+        Main m = new Main();
+
+    }
 
     @Override
     public void keyTyped(KeyEvent e) {
