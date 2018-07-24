@@ -24,7 +24,7 @@ public class Main extends JFrame implements KeyListener, MouseListener {
     JPanel jp = new JPanel();
     private BackGround bg = new BackGround();
     Bird b = new Bird();
-    int b
+    
     public Main() {
 
         setSize(500, 500);
